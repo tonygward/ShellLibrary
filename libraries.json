@@ -1,0 +1,184 @@
+[
+  {
+    "Name": "Installs",
+    "DefaultSaveLocation": "\\\\TITANIC\\Public\\Installs",
+    "Folders": [
+      {
+        "Name": "Installs",
+        "Path": "\\\\TITANIC\\Public\\Installs"
+      },
+      {
+        "Name": "ISOs",
+        "Path": "\\\\TITANIC\\Admin2\\ISOs"
+      },
+      {
+        "Name": "ISOs",
+        "Path": "\\\\TITANIC\\Public2\\ISOs"
+      }
+    ]
+  },
+  {
+    "Name": "Library",
+    "DefaultSaveLocation": "\\\\titanic\\Public\\Library",
+    "Folders": [
+      {
+        "Name": "Library",
+        "Path": "\\\\titanic\\Public\\Library"
+      }
+    ]
+  },
+  {
+    "Name": "Movies",
+    "DefaultSaveLocation": "\\\\titanic\\Public\\Videos\\Movies",
+    "Folders": [
+      {
+        "Name": "Movies",
+        "Path": "\\\\titanic\\Public\\Videos\\Movies"
+      }
+    ]
+  },
+  {
+    "Name": "Music Projects",
+    "DefaultSaveLocation": "D:\\Cakewalk Projects",
+    "Folders": [
+      {
+        "Name": "Cakewalk Projects",
+        "Path": "D:\\Cakewalk Projects"
+      }
+    ]
+  },
+  {
+    "Name": "Music Tab",
+    "DefaultSaveLocation": "C:\\Users\\tony\\Dropbox\\My Documents\\Music\\TonyAndChloe\\Tab",
+    "Folders": [
+      {
+        "Name": "Tab",
+        "Path": "C:\\Users\\tony\\Dropbox\\My Documents\\Music\\TonyAndChloe\\Tab"
+      },
+      {
+        "Name": "Tab",
+        "Path": "C:\\Users\\tony\\Dropbox\\My Documents\\Music\\Tony\\Tab"
+      },
+      {
+        "Name": "Tab",
+        "Path": "C:\\Users\\tony\\Dropbox\\My Documents\\Music\\Chris\\Tab"
+      },
+      {
+        "Name": "Tab",
+        "Path": "C:\\Users\\tony\\Dropbox\\My Documents\\Music\\AcousticMoods\\Tab"
+      },
+      {
+        "Name": "Compositions",
+        "Path": "C:\\Users\\tony\\Dropbox\\My Documents\\Music\\Tony\\Compositions"
+      }
+    ]
+  },
+  {
+    "Name": "Music Tutorials",
+    "DefaultSaveLocation": "\\\\titanic\\Public\\Performing\\Recordings\\Tutorials",
+    "Folders": [
+      {
+        "Name": "Tutorials",
+        "Path": "\\\\titanic\\Public\\Performing\\Recordings\\Tutorials"
+      }
+    ]
+  },
+  {
+    "Name": "Synths",
+    "DefaultSaveLocation": "E:\\Synth\\NI\\Colossus\\Library\\Instruments",
+    "Folders": [
+      {
+        "Name": "Instruments",
+        "Path": "E:\\Synth\\NI\\Colossus\\Library\\Instruments"
+      },
+      {
+        "Name": "multis",
+        "Path": "E:\\Synth\\NI\\Orchestra\\Brass\\Library\\multis"
+      },
+      {
+        "Name": "multis",
+        "Path": "E:\\Synth\\NI\\Orchestra\\Percussion\\Library\\multis"
+      },
+      {
+        "Name": "multis",
+        "Path": "E:\\Synth\\NI\\Orchestra\\Strings\\Library\\multis"
+      },
+      {
+        "Name": "multis",
+        "Path": "E:\\Synth\\NI\\Orchestra\\Woodwinds\\Library\\multis"
+      },
+      {
+        "Name": "Programs",
+        "Path": "C:\\ProgramData\\Cakewalk\\Rapture\\Programs"
+      },
+      {
+        "Name": "Programs",
+        "Path": "C:\\ProgramData\\Cakewalk\\Dimension Pro\\Programs"
+      }
+    ]
+  },
+  {
+    "Name": "Music",
+    "DefaultSaveLocation": "C:\\Users\\tony\\Music",
+    "Folders": [
+      {
+        "Name": "Music",
+        "Path": "\\\\titanic\\public\\Music"
+      },
+      {
+        "Name": "Music",
+        "Path": "C:\\Users\\tony\\Music"
+      }
+    ]
+  },
+  {
+    "Name": "Videos",
+    "DefaultSaveLocation": "C:\\Users\\tony\\Videos",
+    "Folders": [
+      {
+        "Name": "Videos",
+        "Path": "\\\\titanic\\public\\Videos"
+      },
+      {
+        "Name": "Videos",
+        "Path": "C:\\Users\\tony\\Videos"
+      }
+    ]
+  },
+  {
+    "Name": "Documents",
+    "DefaultSaveLocation": "C:\\Users\\tony\\Documents",
+    "Folders": [
+      {
+        "Name": "Documents",
+        "Path": "C:\\Users\\tony\\OneDrive\\Documents"
+      },
+      {
+        "Name": "Documents",
+        "Path": "C:\\Users\\tony\\Documents"
+      }
+    ]
+  },
+  {
+    "Name": "Pictures",
+    "DefaultSaveLocation": "C:\\Users\\tony\\Pictures",
+    "Folders": [
+      {
+        "Name": "Pictures",
+        "Path": "\\\\titanic\\public\\Pictures"
+      },
+      {
+        "Name": "Camera Uploads",
+        "Path": "C:\\Users\\tony\\Dropbox\\Camera Uploads"
+      },
+      {
+        "Name": "Pictures",
+        "Path": "C:\\Users\\tony\\OneDrive\\Pictures"
+      },
+      {
+        "Name": "Pictures",
+        "Path": "C:\\Users\\tony\\Pictures"
+      }
+    ]
+  }
+]
